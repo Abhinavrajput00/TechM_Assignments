@@ -1,0 +1,25 @@
+header {
+    background-color:lavender;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    margin: 0%;
+}
+.img{
+    margin-top: 3%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+body{
+    background-color:lightcoral
+}
+h3{
+    text-align: center;
+    color: firebrick;
+}
+.jonny{
+    text-align: center;
+    list-style-position: inside;
+}
